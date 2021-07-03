@@ -10,9 +10,12 @@ About me
 
 Languages and Tools
 
-![C#](https://img.shields.io/badge/-C%23-682977)
-![WPF](https://img.shields.io/badge/-WPF-682977)
-![Sql](https://img.shields.io/badge/-Sql-682977)
+![C#](https://img.shields.io/badge/-C%23-181818?style=for-the-badge&logo=csharp&logoColor=09742)
+![dotNet](https://img.shields.io/badge/-Framework-181818?style=for-the-badge&logo=dotNet)
+![XAML](https://img.shields.io/badge/-XAML-181818?style=for-the-badge&logo=xaml)
+![Java](https://img.shields.io/badge/-Java-181818?style=for-the-badge&logo=Java)
+![WPF](https://img.shields.io/badge/-WPF-181818?style=for-the-badge&&logo=)
+![Sql](https://img.shields.io/badge/-Sql-181818?style=for-the-badge)
 
 Follow me 🎸
 
