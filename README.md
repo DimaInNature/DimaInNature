@@ -14,7 +14,7 @@ Languages and Tools
 ![dotNet](https://img.shields.io/badge/-Framework-181818?style=for-the-badge&logo=dotNet)
 ![XAML](https://img.shields.io/badge/-XAML-181818?style=for-the-badge&logo=xaml)
 ![Java](https://img.shields.io/badge/-Java-181818?style=for-the-badge&logo=Java)
-![WPF](https://img.shields.io/badge/-WPF-181818?style=for-the-badge&&logo=)
+![WPF](https://img.shields.io/badge/-WPF-181818?style=for-the-badge&logo=windows)
 ![Sql](https://img.shields.io/badge/-Sql-181818?style=for-the-badge)
 
 Follow me 🎸
