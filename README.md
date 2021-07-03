@@ -19,3 +19,4 @@ Languages and Tools
 
 Follow me 🎸
 
+[![VK](https://img.shields.io/badge/-VK-181818?style=for-the-badge&logo=VK&logoColor=09742)](https://vk.com/dimainnature)
