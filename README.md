@@ -22,3 +22,4 @@ Follow me 🎸
 [![VK](https://img.shields.io/badge/-VK-181818?style=for-the-badge&logo=VK)](https://vk.com/dimainnature)
 [![Instagram](https://img.shields.io/badge/-Instagram-181818?style=for-the-badge&logo=instagram)](https://www.instagram.com/thelongername/)
 [![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram)](https://t.me/dimainnature)
+[![Reddit](https://img.shields.io/badge/-Reddit-181818?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/DimaInNature)
