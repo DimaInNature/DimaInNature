@@ -23,3 +23,7 @@ Follow me 🎸
 [![Instagram](https://img.shields.io/badge/-Instagram-181818?style=for-the-badge&logo=instagram)](https://www.instagram.com/thelongername/)
 [![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram)](https://t.me/dimainnature)
 [![Reddit](https://img.shields.io/badge/-Reddit-181818?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/DimaInNature)
+
+Statistics 🧠
+
+[![Stat](https://github-readme-stats.vercel.app/api/wakatime?username=DimaInNature)](https://github.com/anuraghazra/github-readme-stats)
