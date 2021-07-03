@@ -10,7 +10,7 @@ About me
 
 Languages and Tools
 
-![C#](https://img.shields.io/badge/-C_%23-682977)
+![C#](https://img.shields.io/badge/-C%23-682977)
 
 Follow me 🎸
 
