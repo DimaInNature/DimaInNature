@@ -15,12 +15,6 @@
 ![WPF](https://img.shields.io/badge/-WPF-181818?style=for-the-badge&logo=windows)
 ![Sql](https://img.shields.io/badge/-Sql-181818?style=for-the-badge)
 
-
-### What I'm studying at the moment
-
-1) C# + WPF 💥;
-2) JavaScript 💫.
-
 ### Follow me 🎸
 
 [![VK](https://img.shields.io/badge/-VK-181818?style=for-the-badge&logo=VK)](https://vk.com/dimainnature)
