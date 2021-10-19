@@ -1,12 +1,12 @@
 ## Hello
 ### I'm a programmer and musician
-#### About me :3
+#### About me
 
 - 👌🏻 I like to write code;
 - 📚 I love learning;
 - 🎵 I really like to play stringed instruments.
 
-### Languages and Tools
+### My Stack is
 
 ![C#](https://img.shields.io/badge/-C%23-181818?style=for-the-badge&logo=c%2b%2b&logoColor=09742)
 ![dotNet](https://img.shields.io/badge/-Framework-181818?style=for-the-badge&logo=dotNet)
