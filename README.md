@@ -1,6 +1,6 @@
-## Hello
+## Hola m8
 ### I'm a programmer and musician
-#### About me
+#### About myself
 
 - 👌🏻 I like to write code;
 - 📚 I love learning;
