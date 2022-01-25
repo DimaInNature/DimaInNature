@@ -18,6 +18,6 @@
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></br>
 
-### Send Me
+### Contact with me
 [![VK](https://img.shields.io/badge/-VK-181818?style=for-the-badge&logo=VK)](https://vk.com/dimainnature)
 [![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram)](https://t.me/dimainnature)
