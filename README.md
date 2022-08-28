@@ -7,7 +7,6 @@
 
 ## [Look my code](https://github.com/DimaInNature?tab=repositories) and connect with me
 
-[![VK](https://img.shields.io/badge/-VK-181818?style=for-the-badge&logo=VK)](https://vk.com/dimainnature)
 [![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram)](https://t.me/dimainnature)
 
 ## My stack
