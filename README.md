@@ -1,6 +1,6 @@
 ## Hi there, i'm Dima aka DimaInNature
 
-## I'm a middle programmer and musician!
+## I'm a programmer and musician!
 - 👌🏻 I like to write code;
 - 📚 I love learning;
 - 🎵 I really like to play stringed instruments.
