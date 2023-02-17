@@ -25,6 +25,11 @@
 <br/>
 
 ---
+### Visitors
+
+<p> 
+  <img src="https://profile-counter.glitch.me/dimainnature/count.svg" />
+</p>
 
 <details open="">
   <summary><b>Check my GitHub stats</b></summary>
@@ -34,7 +39,3 @@
     <a href="https://github.com/dimainnature/dimainnature"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimainnature&layout=compact&langs_count=8&theme=merko" width=40%/></a>
   
 </details>
-
-### Coding Stats
-
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimainnature&theme=react-dark&area=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
