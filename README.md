@@ -1,15 +1,15 @@
-## Hi there, i'm Dima aka DimaInNature
+### Heyo, i'm Dima aka DimaInNature
+
+[![](https://img.shields.io/badge/-@dimainnature-%231DA1F2?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/dimainnature)
+[![](https://img.shields.io/badge/-@dimainnature-%231DA1F2?style=flat-square&logo=habr&logoColor=ffffff)](https://habr.com/ru/users/dimainnature/)
+[![](https://img.shields.io/badge/-@dimainnature-%23181717?style=flat-square&logo=github)](https://github.com/dimainnature)
 
 ## I'm a programmer and musician!
 - 👌🏻 I like to write code;
 - 📚 I love learning;
 - 🎵 I really like to play stringed instruments.
 
-## [Look my code](https://github.com/DimaInNature?tab=repositories) and connect with me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram)](https://t.me/dimainnature)
-
-## My stack
+## Stack
 
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -25,7 +25,7 @@
 <br/>
 
 ---
-### Visitors
+## Stats
 
 <p> 
   <img src="https://profile-counter.glitch.me/dimainnature/count.svg" />
