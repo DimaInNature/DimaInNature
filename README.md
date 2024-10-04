@@ -1,10 +1,10 @@
-### Heyo, i'm Dima aka DimaInNature
+## Heyo, i'm Dima aka DimaInNature
 
 [![](https://img.shields.io/badge/-@dimainnature-%231DA1F2?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/dimainnature)
 [![](https://img.shields.io/badge/-@dimainnature-%231DA1F2?style=flat-square&logo=habr&logoColor=ffffff)](https://habr.com/ru/users/dimainnature/)
 [![](https://img.shields.io/badge/-@dimainnature-%23181717?style=flat-square&logo=github)](https://github.com/dimainnature)
 
-## I'm a Senior .NET Engineer & Blogger!
+### I'm a Senior .NET Engineer & Blogger!
 
 Kidding about IT in my telegram channel:
 
