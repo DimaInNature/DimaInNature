@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@dimainnature-%231DA1F2?style=flat-square&logo=habr&logoColor=ffffff)](https://habr.com/ru/users/dimainnature/)
 [![](https://img.shields.io/badge/-@dimainnature-%23181717?style=flat-square&logo=github)](https://github.com/dimainnature)
 
-### I'm a Senior .NET Engineer & Blogger!
+### I'm a Staff .NET Engineer & Blogger!
 
 Kidding about IT in my telegram channel:
 
@@ -21,21 +21,3 @@ Kidding about IT in my telegram channel:
 <img align="left" alt="EF" width="45px" src="https://i.ytimg.com/vi/cIZB1wNMPlY/maxresdefault.jpg" />
 <img align="left" alt="ASP NET" width="26px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/158074977/original/bb18ce691b2723d2fc557a4336e8ff9eb3858b6c/develop-your-site-in-asp.png" />
 <img align="left" alt="Swagger" width="26px" src="https://ih1.redbubble.net/image.529215309.4394/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" />
-
-<br/>
-
----
-## Stats
-
-<p> 
-  <img src="https://profile-counter.glitch.me/dimainnature/count.svg" />
-</p>
-
-<details open="">
-  <summary><b>Check my GitHub stats</b></summary>
-  <p align="center">
-    <a href="https://github.com/dimainnature/dimainnature"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mitul3737&theme=merko"/></a>
-    <a href="https://github.com/dimainnature/dimainnature"><img alt="Mitul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimainnature&show_icons=true&theme=merko" width=55%/></a>
-    <a href="https://github.com/dimainnature/dimainnature"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimainnature&layout=compact&langs_count=8&theme=merko" width=40%/></a>
-  
-</details>
