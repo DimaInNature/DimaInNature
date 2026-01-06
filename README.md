@@ -1,7 +1,5 @@
 ## Heyo, i'm Dima aka DimaInNature
 
-[![](https://img.shields.io/badge/-@dimainnature-%231DA1F2?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/dimainnature)
-
 ### I'm a Staff .NET Engineer & Blogger!
 
 Kidding about IT in my telegram channel:
